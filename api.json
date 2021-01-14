@@ -1,5 +1,5 @@
 {
-  "MyModel" [{
+  "MyModel": [{
     "title" : "MyTitle",
    "description" : "myDescription", 
    "justAString" : ["string1", "string2", "string3"]
