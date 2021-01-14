@@ -1,0 +1,14 @@
+{
+  "MyModel" [{
+  
+   'title' : 'MyTitle',
+   'description' : 'myDescription', 
+   justAString' : ['string1', 'string2', 'string3']
+  }, 
+  {
+  'title' : 'MyTitle2',
+   'description' : 'myDescription2', 
+   justAString' : ['string4', 'string5', 'string6']
+  }
+  ]
+}
